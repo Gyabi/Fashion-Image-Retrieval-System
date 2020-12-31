@@ -1,0 +1,6 @@
+metric_color_pretrain_weight.pth
+カラー特徴量学習(fine-tuning)
+metric_color_weight.pth
+カラー特徴量学習
+metric_id_pretrain_weight
+スタイル特徴量学習

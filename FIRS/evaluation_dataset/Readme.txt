@@ -1,0 +1,2 @@
+evaluation_DB2 600枚DB
+evaluation_DB_mydata　600+自分の画像

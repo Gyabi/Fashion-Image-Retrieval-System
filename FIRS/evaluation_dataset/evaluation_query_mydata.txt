@@ -1,0 +1,8 @@
+my_data/yuichi_kano/key_frame/black_3way_0.jpg			       id_10000000 gallery
+my_data/yuichi_kano/key_frame/black_smartphone_0.jpg		       id_10000000 gallery
+my_data/yuichi_kano/key_frame/blue_3way_0.jpg			       id_10000000 gallery
+my_data/yuichi_kano/key_frame/blue_smartphone_0.jpg		       id_10000000 gallery
+my_data/yuichi_kano/key_frame/white_3way_0.jpg			       id_10000000 gallery
+my_data/yuichi_kano/key_frame/white_smartphone_0.jpg		       id_10000000 gallery
+my_data/yuichi_kano/key_frame/red_3way_0.jpg			       id_10000000 gallery
+my_data/yuichi_kano/key_frame/red_smartphone_0.jpg		       id_10000000 gallery
